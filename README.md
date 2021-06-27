@@ -30,7 +30,7 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashkumar15480&show_icons=true&locale=en" alt="yashkumar15480" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar15480&" alt="yashkumar15480" /></p>
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="260" height="300" alt=""/>
+<video src="https://youtu.be/bOVY0dOu5Jg" width="260" height="300" alt="" controls></video>
 
 <p>&nbsp;</p>
 
