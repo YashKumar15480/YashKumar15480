@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkumar15480&show_icons=true&locale=en" alt="yashkumar15480" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar15480&" alt="yashkumar15480" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar15480&" alt="yashkumar15480" /></p>
 
