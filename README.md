@@ -1,5 +1,5 @@
-<meta http-equiv="refresh" content="2">
-<div align="center"><a href="https://ibb.co/6Y8pPLG"><img src="https://i.ibb.co/2qSLtHR/github-Logo.png" alt="github-Logo" ></a></div>
+
+<div align="center"><a href="https://ibb.co/jg8R0zp"><img src="https://i.ibb.co/86mcvbh/github-Logo.png" width="900" alt="github-Logo" ></a></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar15480&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar15480" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
