@@ -93,8 +93,8 @@
 
 # 📈 Contribution Graph
 
-| Classic Contribution Graph | Activity Graph |
-|----------------------------|---------------|
+| Contribution Graph | Activity Graph |
+|--------------------------------|---------------|
 | <img src="https://ghchart.rshah.org/yashkumar15480" alt="GitHub Contributions"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkumar15480&theme=tokyo-night"/> |
 
 ---
