@@ -1,8 +1,4 @@
 <!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://i.ibb.co/86mcvbh/github-Logo.png" width="900"/>
-</div>
-
 <!-- PROFILE VIEWS -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashkumar15480&label=Profile%20Views&color=0e75b6&style=flat" />
