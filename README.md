@@ -10,11 +10,24 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
 # 👨‍💻 About Me
 
-- Hi I am currently working as a **Custom Software Engineering Analyst at Accenture**
+</td>
+<td align="right">
 
-- I am a **.NET and Sitecore Developer**
+<img src="https://komarev.com/ghpvc/?username=yashkumar15480&label=Profile%20Views&color=36BCF7&style=flat"/>
+
+</td>
+</tr>
+</table>
+
+- 💼 Hi I am currently working as a **Custom Software Engineering Analyst at Accenture**
+
+- 🧑‍💻 I am a **.NET and Sitecore Developer**
 
 - 💬 Ask me about **Dot Net, Sitecore, Azure DevOps, Google Tag Manager and ChatGPT**
 
@@ -85,10 +98,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yashkumar15480&label=Profile%20Views&color=36BCF7&style=flat"/>
-</p>
 
 <!-- FOOTER -->
 <p align="center">
