@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=yashkumar15480&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- CODING GIF -->
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
-
 # Hi 👋 I'm Yash Kumar
 
 ### 👨‍💻 Developer | Tech Enthusiast
