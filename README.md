@@ -93,9 +93,17 @@
 
 # 📈 Contribution Graph
 
-| Contribution Graph | Activity Graph |
-|--------------------------------|---------------|
+| Classic Contribution Graph | Activity Graph |
+|----------------------------|---------------|
 | <img src="https://ghchart.rshah.org/yashkumar15480" alt="GitHub Contributions"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkumar15480&theme=tokyo-night"/> |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashkumar15480/yashkumar15480/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
