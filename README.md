@@ -93,9 +93,9 @@
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkumar15480&theme=tokyo-night"/>
-</p>
+| Classic Contribution Graph | Activity Graph |
+|----------------------------|---------------|
+| <img src="https://ghchart.rshah.org/yashkumar15480" alt="GitHub Contributions"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkumar15480&theme=tokyo-night"/> |
 
 ---
 
