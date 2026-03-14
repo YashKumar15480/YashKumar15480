@@ -5,20 +5,22 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Yash+Kumar;Full+Stack+Developer;Java+%7C+Web+Development+Enthusiast;Always+Learning+New+Tech"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Yash+Kumar;Dot+Net+%7C+Sitecore+Developer;Custom+Software+Engineering+Analyst+@+Accenture;Always+Learning+New+Tech"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
-
 # 👨‍💻 About Me
 
-- 🔭 I’m currently working on **JOKE BOOK LITE (Website)**
-- 🌱 I’m currently learning **Android Development**
-- 💬 Ask me about **Java, C, SQL, HTML, CSS**
+- Hi I am currently working as a **Custom Software Engineering Analyst at Accenture**
+
+- I am a **.NET and Sitecore Developer**
+
+- 💬 Ask me about **Dot Net, Sitecore, Azure DevOps, Google Tag Manager and ChatGPT**
+
 - 📫 Reach me at **yaku15480@gmail.com**
-- ⚡ Fun fact: **I am a textrovert person**
+
+- ⚡ My Fun fact : **This Bio is developed by ChatGPT**
 
 ---
 
@@ -54,7 +56,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css,mysql,firebase,git,androidstudio,photoshop,illustrator"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,js,html,css,mysql,git,azure,visualstudio"/>
 
 </p>
 
@@ -72,14 +74,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumar15480&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashkumar15480&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
 
 ---
